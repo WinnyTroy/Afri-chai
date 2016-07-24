@@ -1,0 +1,19 @@
+body{
+    font-family: 'Arima Madurai', cursive;
+    background-color: azure;
+}
+.text-center{
+    margin-top: 55px;
+
+}
+#services{
+    text-decoration: underline;
+}
+#centre{
+     word-spacing: 25px;
+    font-family: 'Arima Madurai', cursive;
+}
+#landing{
+    margin-top: 50px;
+    word-spacing: 250px;
+}

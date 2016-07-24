@@ -58,7 +58,7 @@ section {width:225px; height: 400px;
 
 #page-header {
     height: 500px;
-    background: #cecece;
+    background: azure;
 }
 #page-header > div.row {
     position: relative;
